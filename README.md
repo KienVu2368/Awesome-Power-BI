@@ -17,7 +17,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Groups](#groups)
 * [Visuals](#visuals)
 * [DAX](#dax)
-* [M](#m)
+* [M and Power Query](#M-and-Power-Query)
 * [Adam's Roundup](#adams-roundup)
 * [Tools](#tools)
 * [Learning](#learning)
@@ -29,6 +29,8 @@ It is so easy to start with Power BI, but hard to master it.
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
+* [Repository](#Repository)
+* [Site](#Site)
 
 ## Power BI Heroes at YouTube
 > sorted alphabetically :heart:
@@ -116,12 +118,28 @@ It is so easy to start with Power BI, but hard to master it.
 * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
 * SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
 
-## M
+## M-and-Power-Query
+
+### Site
 * [Basics of M - Power Query Formula Language](http://radacad.com/basics-of-m-power-query-formula-language)
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 * [Power Query M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 
+### Tool/library
 
+* [PowerQueryFunctional](https://github.com/Hugoberry/PowerQueryFunctional) Power Query utility library with a functional twist 
+* [m-tools](https://github.com/acaprojects/m-tools) A collection a useful tools for building Microsoft Power BI queries 
+* [pquery](https://github.com/tycho01/pquery) A collection of functions for use in Excel Power Query 
+* [Power-BI-Desktop-Query-Extensions](https://github.com/tnclark8012/Power-BI-Desktop-Query-Extensions) Various M Queries that you can use to make life easy-peasy 
+* [PowerQueryExtensions](https://github.com/Hugoberry/PowerQueryExtensions) Modules that extend the functionality of Power BI/Power Query
+* [atom-language-m](https://github.com/jaykilleen/atom-language-m) Power Query Formula Language (informally known as 'm') support in atom
+* [LibPQ](https://github.com/sio/LibPQ) Detach your M code from workbooks to reuse it! Import modules from local or web storage (unlimited number of sources) 
+
+### Connector
+* [DataConnectors](https://github.com/Microsoft/DataConnectors)
+* [PowerQueryConnectors](https://github.com/Hugoberry/PowerQueryConnectors) 
+A collection of data connectors for Power BI
+* [FacebookAds](https://github.com/Hugoberry/FacebookAds) FacebookAds PowerBI data connector 
 
 
 ## Adam's Roundup
@@ -195,6 +213,14 @@ It is so easy to start with Power BI, but hard to master it.
 ## Summits and Conferences
 * [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit)
 * [Difinity Conference](http://difinity.co.nz/)
+
+
+## Repository
+* [Hugoberry](https://github.com/Hugoberry)
+
+## Site
+* https://querypower.com/
+
 
 <br/>[:top:](#table-of-contents)
 
