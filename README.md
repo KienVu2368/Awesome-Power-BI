@@ -1,29 +1,17 @@
 # Awesome Power BI
 
-![Power BI](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Images/power-bi-logo.png)  
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart:
-
-```sh
-It is so easy to start with Power BI, but hard to master it. 
-```
-
 ## Table of contents
 
 * [Power BI Heroes at YouTube :star2:](#power-bi-heroes-at-youtube)
-* [Blogs](#blogs)
-* [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
-* [Official References](#official-references)
 * [Books](#books)
 * [Groups](#groups)
 * [Visuals](#visuals)
+* [Power Pivot](#Power-Pivot)
 * [DAX](#dax)
 * [M and Power Query](#M-and-Power-Query)
 * [Adam's Roundup](#adams-roundup)
 * [Tools](#tools)
-* [Learning](#learning)
-* [Power BI Samples](#power-bi-samples)
 * [Datasets](#datasets)
-* [Exam 70-778](#exam-70-778)
 * [Advanced Topics](#advanced-topics)
 * [Special Features](#special-features)
 * [Styles and Themes](#styles-and-themes)
@@ -42,41 +30,6 @@ It is so easy to start with Power BI, but hard to master it.
 * Ruth Pozuelo Martinez [Curbal](https://lnkd.in/dAfAQik)
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
-
-
-## Blogs
-* [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)
-* David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
-* Imke Feldmann [The BIccountant](https://www.thebiccountant.com/category/power-bi/)
-* Marco Russo and Alberto Ferrari [SQLBI](https://www.sqlbi.com/articles/?author=&tag_id=401)
-* Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
-* Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
-* Reza Rad [RADACAD](http://www.radacad.com/blog)
-
-
-## Power BI Desktop Feature Summary
-### 2019
-* [Power BI Desktop February 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2019-feature-summary)
-### 2018
-* [Power BI Desktop December 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-december-2018-feature-summary)
-* [Power BI Desktop November 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-2018-feature-summary)
-* [Power BI Desktop October 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-october-2018-feature-summary)
-* [Power BI Desktop September 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-september-2018-feature-summary)
-* [Power BI Desktop August 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary)
-* [Power BI Desktop July 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2018-feature-summary)
-* [Power BI Desktop June 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2018-feature-summary)
-* [Power BI Desktop May 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2018-feature-summary)
-* [Power BI Desktop April 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-april-2018-feature-summary)
-* [Power BI Desktop March 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2018-feature-summary)
-* [Power BI Desktop February 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2018-feature-summary)
-* [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
-
-## Official References
-### Docs
-* [Official Power BI Docs](https://docs.microsoft.com/power-bi)
-
-### Whitepapers
-* [Power BI Whitepapers](http://bit.ly/PowerBIWhitepapers)
 
 
 ## Books
@@ -111,12 +64,22 @@ It is so easy to start with Power BI, but hard to master it.
 ## Visuals
 * [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals)
 
+## Power Pivot
+
+### Tool
+* [power-pivot-utilities](https://www.sqlbi.com/tools/power-pivot-utilities/) Power Pivot Utilities in an Excel add-in (based on a collection of VBA macros) that helps documenting PowerPivot models and facilitates the creation of pivot tables connected to the data model.
 
 ## DAX
+### Site
 * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
 * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
 * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
 * SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
+* [powerdax](https://powerdax.com/)
+
+### Tool/library
+* [DaxEditor](https://github.com/DaxEditor/DaxEditor) DAX Editor VSIX project
+* http://powerdax.com/Downloads/
 
 ## M-and-Power-Query
 
@@ -134,12 +97,19 @@ It is so easy to start with Power BI, but hard to master it.
 * [PowerQueryExtensions](https://github.com/Hugoberry/PowerQueryExtensions) Modules that extend the functionality of Power BI/Power Query
 * [atom-language-m](https://github.com/jaykilleen/atom-language-m) Power Query Formula Language (informally known as 'm') support in atom
 * [LibPQ](https://github.com/sio/LibPQ) Detach your M code from workbooks to reuse it! Import modules from local or web storage (unlimited number of sources) 
+* [M](https://github.com/ImkeF/M) Collection of cutom M functions for Power Query and Power BI 
+* [RM](https://github.com/ImkeF/RM) R functions who are wrapped into M function code to run in Power BI 
+* [M-Guide](https://github.com/ImkeF/M-Guide) Collection of native M functions with unexpected behaviour and their workarounds
+* [Power-Query](https://github.com/getkks/Power-Query) Set of Functions for Power Query
+* [Power-Query-Excel-Formats](https://github.com/hohlick/Power-Query-Excel-Formats) A collection of M code to get various formats from Excel sheets in Power Query 
+
 
 ### Connector
 * [DataConnectors](https://github.com/Microsoft/DataConnectors)
 * [PowerQueryConnectors](https://github.com/Hugoberry/PowerQueryConnectors) 
 A collection of data connectors for Power BI
 * [FacebookAds](https://github.com/Hugoberry/FacebookAds) FacebookAds PowerBI data connector 
+* [YoutubeAnalytics](https://github.com/migueesc123/YoutubeAnalytics) A Microsoft Data Connector or Power Query Connector for YoutubeAnalytics data q
 
 
 ## Adam's Roundup
@@ -154,13 +124,6 @@ A collection of data connectors for Power BI
 * [Theme Generator](https://powerbi.tips/tools/color-theme-generator)
 
 
-## Learning
-* [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
-* [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
-
-## Power BI Samples
-* [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
-* [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
 
 ## Datasets
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
@@ -175,12 +138,6 @@ A collection of data connectors for Power BI
 * [Coffee and Code](https://www.kaggle.com/devready/coffee-and-code) - The case for Lebanon
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
-
-## Exam 70-778
-* [Exam 70-778](https://www.microsoft.com/en-us/learning/exam-70-778.aspx) - Analyzing and Visualizing Data with Microsoft Power BI
-* [Microsoft Power BI Exam Ref 70-778](https://amzn.to/2UIB1Tz) - Daniil Maslyuk
-* [Preparing for Power BI Certification Exam 70-778: Level 1](https://www.youtube.com/watch?v=CTgzCTFMNnk) - Ted Pattison
-* [Prepare for the Power BI Certification (70-778)](https://www.youtube.com/playlist?list=PLv2BtOtLblH1dQPV49Ni12olDcUoW-GEl) - Guy in a Cube
 
 ## Advanced Topics
 * [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates
@@ -214,12 +171,27 @@ A collection of data connectors for Power BI
 * [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit)
 * [Difinity Conference](http://difinity.co.nz/)
 
+## Embedded
+* [powerbi-responsive](https://github.com/acaprojects/powerbi-responsive) Create responsive, embed-able reports from Power BI
 
 ## Repository
 * [Hugoberry](https://github.com/Hugoberry)
+* [ImkeF](https://github.com/ImkeF)
 
-## Site
+## Site/blog
+* http://www.powerpivot-info.com/
 * https://querypower.com/
+* http://radacad.com
+* https://powerbi.tips
+* https://powerpivotpro.com
+* [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)
+* David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
+* Imke Feldmann [The BIccountant](https://www.thebiccountant.com/category/power-bi/)
+* Marco Russo and Alberto Ferrari [SQLBI](https://www.sqlbi.com/articles/?author=&tag_id=401)
+* Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
+* Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
+* Reza Rad [RADACAD](http://www.radacad.com/blog)
+
 
 
 <br/>[:top:](#table-of-contents)
