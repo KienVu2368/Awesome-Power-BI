@@ -21,7 +21,6 @@
 * [Site](#Site)
 
 ## Power BI Heroes at YouTube
-> sorted alphabetically :heart:
 
 * Adam Saxton and Patrick Leblanc [Guy in a Cube](https://lnkd.in/dcPxt3k)
 * Avi Singh [PowerBIPro](https://lnkd.in/dffuDBa)
@@ -34,13 +33,13 @@
 
 ## Books
 ### Power BI Books
+> [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
+
 * [Pro Power BI Architecture](https://amzn.to/2E8IshF) - Sharing, Security, and Deployment Options for Microsoft Power BI Solutions 
 * [Collect, Combine, and Transform Data Using Power Query in Excel and Power BI (Business Skills)](https://amzn.to/2QaC9Rh) - Gil Raviv
 * [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Marco Russo and Alberto Ferrari, Kindle Edition, FREE
 * [The Definitive Guide to DAX](https://amzn.to/2E7kaE5) - BI with Microsoft Excel, SQL Server Analysis Services, and Power BI
 * [Microsoft Power BI Exam Ref 70-778](https://amzn.to/2UIB1Tz) - Daniil Maslyuk
-
-> [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
 
 ### Related Books
 * [#MakeoverMonday](https://amzn.to/2rsgJ33) - Improving How We Visualize and Analyze Data
@@ -76,6 +75,9 @@
 * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
 * SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
 * [powerdax](https://powerdax.com/)
+* [daxpatterns](https://www.daxpatterns.com/)
+* [dax.guide](https://dax.guide/)
+* [daxformatter](https://www.daxformatter.com/)
 
 ### Tool/library
 * [DaxEditor](https://github.com/DaxEditor/DaxEditor) DAX Editor VSIX project
@@ -102,7 +104,8 @@
 * [M-Guide](https://github.com/ImkeF/M-Guide) Collection of native M functions with unexpected behaviour and their workarounds
 * [Power-Query](https://github.com/getkks/Power-Query) Set of Functions for Power Query
 * [Power-Query-Excel-Formats](https://github.com/hohlick/Power-Query-Excel-Formats) A collection of M code to get various formats from Excel sheets in Power Query 
-
+* [PowerQueryModules](https://github.com/IvanBond/PowerQueryModules) Power Query Modules used in Power BI desktop 
+* [power-query-library](https://github.com/hohlick/power-query-library) Power Query common library 
 
 ### Connector
 * [DataConnectors](https://github.com/Microsoft/DataConnectors)
@@ -122,8 +125,10 @@ A collection of data connectors for Power BI
 * [DAX Studio](https://www.sqlbi.com/tools/dax-studio/)
 * [Power BI Helper](http://radacad.com/power-bi-helper)
 * [Theme Generator](https://powerbi.tips/tools/color-theme-generator)
-
-
+* [PowerBI_Desktop_Export_CSV](https://github.com/djouallah/PowerBI_Desktop_Export_CSV) a Powershell script to query and export a CSV from Power BI Desktop 
+* [PowerBI_Desktop_VBA_Excel](https://github.com/djouallah/PowerBI_Desktop_VBA_Excel) Connect to PowerBI desktop using VBA only 
+* [PowerBI_Desktop_ETL](https://github.com/djouallah/PowerBI_Desktop_ETL) PS script to automate an ETL job in PowerBI Desktop
+* [PowerBI_Desktop_Refresh](https://github.com/djouallah/PowerBI_Desktop_Refresh) PS script to refresh a PowerBI Desktop
 
 ## Datasets
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
@@ -177,6 +182,10 @@ A collection of data connectors for Power BI
 ## Repository
 * [Hugoberry](https://github.com/Hugoberry)
 * [ImkeF](https://github.com/ImkeF)
+* [IvanBond](https://github.com/IvanBond)
+* [djouallah](https://github.com/djouallah)
+* [hohlick](https://github.com/hohlick)
+* [acaprojects](https://github.com/acaprojects)
 
 ## Site/blog
 * http://www.powerpivot-info.com/
