@@ -173,6 +173,7 @@ A collection of data connectors for Power BI
 * Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
+* [thebiccountant](https://www.thebiccountant.com)
 
 
 ## Youtube
